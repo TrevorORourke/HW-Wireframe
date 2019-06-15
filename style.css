@@ -31,6 +31,7 @@ body
 
   #right {
     float: right;
+    padding: 20px;
     width: 48%;
     height: 275px;
     color:black;
@@ -82,7 +83,7 @@ body
   footer {
     padding: 20px;
     background-color: white;
-    margin-top: 38%;
+    margin-top: 35%;
   clear: both;
 
 
